@@ -4,6 +4,7 @@
    <a href="https://github.com/will-reis">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=will-reis&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-reis&layout=compact&langs_count=6&theme=monokai"/>
+   <img height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-reis&theme=monokai"/>
 
 </div>
 
