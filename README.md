@@ -1,45 +1,67 @@
-## Bem-vindo(a) ao meu perfil 🤓
-
- <div>
-   <a href="https://github.com/will-reis">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=will-reis&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-reis&layout=compact&langs_count=6&theme=monokai"/>
-   <br>
-   <img height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-reis&theme=monokai"/>
-
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=-1px&pause=1000&color=7C9EB2&center=true&vCenter=true&width=435&height=60&lines=Hey+there%2C+I'm+Will+%E2%98%89+%E2%80%BF+%E2%9A%86;Hope+you+enjoy+my+projects" alt="Typing SVG" /></a>
+    <p style="font-size: 18px; font-family: 'Fira Code', monospace; text-align: center;">
+        <del>in training</del> Full Stack Developer | Brazil, SP
+    </p>
+    <h1>Find me at:</h1>
+    <a href="www.linkedin.com/in/reiswillian" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:reiswillian555@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://discord.com/users/355180266257514507" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
 </div>
+
+## 📖 About Me
+
+I am a Software Developer with a solid background in **IT Support and Infrastructure**. I specialize in building efficient solutions that automate complex manual workflows. Currently, I focus on creating scalable applications using **React** and **C#**, while pursuing my Bachelor’s in Computer Science.
+
+- 🚀 **Current Goal:** Transitioning fully into Full-Stack Development.
+- 🛠️ **Expertise:** Bridging technical support experience with robust software engineering.
+- 🎓 **Education:** Technical degree in Systems Development & ongoing B.S. in Computer Science @ Centro Universitário das Américas.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Frontend</b><br>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
+    </td>
+    <td align="center" width="33%">
+      <b>Backend & Scripting</b><br>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+    </td>
+    <td align="center" width="33%">
+      <b>Tools & Database</b><br>
+      <img src="https://skillicons.dev/icons?i=git,mysql,unity,arduino" />
+    </td>
+  </tr>
+</table>
+<br>
+
+## 🚀 Featured Projects
+
+- **Site-IT:** An Innovation and Technology department website.
+- **Ramais-IT:** A web application for searching through internal phone directories.
+- **Aura-Web:** Currently working on an auditing co-pilot built with Python for internal compliance.
+- **(Ongoing) Personal Portfolio:** A React-based portfolio showcasing my projects and skills, currently in development.
 
 <br>
 
-### Linguagens e Aplicativos que eu sei 🤓
+## 📊 GitHub Stats
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-  <img align="center" alt="ARDUINO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PHOTOSHOP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="UNITY" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg">
-  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=will-reis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-reis&layout=compact&theme=tokyonight"/>
 </div>
 
-### Linguagens que estou aprendendo 😎
+<hr>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-</div>
- 
-<br>
- 
-### Me segue nas redes 😔
- 
-<div> 
-  <a href="https://www.instagram.com/o.willreis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/will-reis/will-reis/blob/output/github-contribution-grid-snake.svg)
-  
+<div align="center">
+    <h2>Currently vibing with:</h2>
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ycshw7nqjr5symlh5e1odm557&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
+    </a>
 </div>
