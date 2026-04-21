@@ -1,7 +1,12 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=-1px&pause=1000&color=7C9EB2&center=true&vCenter=true&width=435&height=60&lines=Hey+there%2C+I'm+Will+%E2%98%89+%E2%80%BF+%E2%9A%86;Hope+you+enjoy+my+projects" alt="Typing SVG" /></a>
-    <p style="font-size: 18px; font-family: 'Fira Code', monospace; text-align: center;">
+    <p style="font-size: 18px; font-family: 'Fira Code', monospace;">
         <del>in training</del> Full Stack Developer | Brazil, SP
+    </p>
+    <p style="font-size: 12px; font-family: 'Fira Code', monospace;">
+        also in portuguese: <a href="https://github.com/will-reis/will-reis/README.pt-br.md">
+        <img src="https://img.shields.io/badge/lang-pt--br-green.svg" alt="Pt-Br">
+        </a>
     </p>
     <h1>Find me at:</h1>
     <a href="www.linkedin.com/in/reiswillian" target="_blank">
