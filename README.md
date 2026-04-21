@@ -4,7 +4,7 @@
         <del>in training</del> Full Stack Developer | Brazil, SP
     </p>
     <p style="font-size: 12px; font-family: 'Fira Code', monospace;">
-        also in portuguese: <a href="https://github.com/will-reis/will-reis/README.pt-br.md">
+        also in portuguese: <a href="https://github.com/will-reis/will-reis/blob/main/README.pt-br.md">
         <img src="https://img.shields.io/badge/lang-pt--br-green.svg" alt="Pt-Br">
         </a>
     </p>
